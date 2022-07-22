@@ -1,4 +1,2 @@
 # html-css
- Aprendizado Html e Css.
-
-Aprendendo a lidar com Github.
+Aprendendo Html e Css. Baseado no sistema de aprendizado do princípio 80/20.
