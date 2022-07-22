@@ -1,2 +1,4 @@
 # html-css
- Aprendizado Html e Css
+ Aprendizado Html e Css.
+
+Aprendendo a lidar com Github.
